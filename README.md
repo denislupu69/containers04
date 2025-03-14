@@ -51,3 +51,11 @@ Gestionăm ciclul de viață al unui container (creare, rulare, închidere și �
 
 Această experiență oferă o bază solidă pentru utilizarea containerelor ca medii de execuție în dezvoltarea și testarea aplicațiilor.
 
+![Descrierea imaginii](images/1.png)
+![Descrierea imaginii](images/2.png)
+![Descrierea imaginii](images/3.png)
+![Descrierea imaginii](images/4.png)
+![Descrierea imaginii](images/5.png)
+
+
+
